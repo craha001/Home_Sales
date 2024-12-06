@@ -1,6 +1,5 @@
 # Module 22 Challenge Home_Sales
-For this week's challenge, I use SparkSQL to determine key metrics for home sales data. In doing so, I created temporary views, partitioned the data, cache and uncache a temporary table, and finally verify the table has been uncached.  
-The code for my work is found in the Home_Sales file in this repository.
+For this week's challenge, I use SparkSQL to determine key metrics for home sales data. In doing so, I created temporary views, partitioned the data, cache and uncache a temporary table, and finally verify the table has been uncached. The code for my work is found in the Home_Sales file in this repository. Also, for ease of use I ran my code using Google Colab.
 
 ## Dependencies Imported
 import findspark  
