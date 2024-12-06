@@ -20,6 +20,8 @@ from pyspyark import SparkFiles
 ![image](https://github.com/user-attachments/assets/05d29c11-7167-48e1-8294-f2512dc1c705)
 
 4. What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+
+
    ![image](https://github.com/user-attachments/assets/931d6e0f-aa81-4cce-9094-b64a4acbe557)
 
 ## SparkSQL run times for Uncached table, Cached table, and Parquet table of analysis question 4 SQL Query
