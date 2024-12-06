@@ -10,3 +10,10 @@ import time
 from pyspyark import SparkFiles  
 
 ## Analysis Questions 
+1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+   YearSold|Four_Bedroom_AveragePrice|
++--------+-------------------------+
+|    2019|              $300,263.70|
+|    2020|              $298,353.78|
+|    2021|              $301,819.44|
+|    2022|              $296,363.88|
