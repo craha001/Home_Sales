@@ -3,10 +3,10 @@ For this week's challenge, I use SparkSQL to determine key metrics for home sale
 The code for my work is found in the Home_Sales file in this repository.
 
 ## Dependencies Imported
-import findspark
-findspark.init()
-from pyspark.sql import SparkSession
-import time
-from pyspyark import SparkFiles
+import findspark  
+findspark.init()  
+from pyspark.sql import SparkSession  
+import time  
+from pyspyark import SparkFiles  
 
 ## Analysis Questions 
